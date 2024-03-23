@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dashboard",
+    "icon": "material-symbols:pie-chart",
+    "url": "/",
+    "top": true
+  },
+  {
+    "name": "Github",
+    "icon": "uil:github",
+    "url": "https://github.com/setyawannn/bug-shadcn-vue",
+    "top": false
+  },
+  {
+    "name": "Settings",
+    "icon": "material-symbols:settings",
+    "url": "/settings",
+    "top": true
+  }
+]
